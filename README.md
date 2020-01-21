@@ -10,6 +10,7 @@ Unicode yet, such as:
 * States of Mexico
 * Brittany
 * Catalonia
+* Northern Ireland
 
 More flags will be added with time, be sure to support eventual Unicode
 proposals about them! Until then, you can download the font [here](fonts/NotoColorEmoji.ttf).
@@ -18,6 +19,8 @@ Why I do this? I believe every region, province and state should have their
 emoji, even though that would make a lot of flags in the emoji picker! Unicode
 already have something in place to represent all of them, so they should all
 be there.
+
+Want your region to be included in this font? Feel free to file [an issue](https://github.com/juju2143/noto-emoji/issues/new) about it!
 
 ## Building NotoColorEmoji
 
