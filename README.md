@@ -2,6 +2,23 @@
 # Noto Emoji
 Color and Black-and-White Noto emoji fonts, and tools for working with them.
 
+This fork includes some flags not found in emoji fonts that don't exist in
+Unicode yet, such as:
+
+* Provinces of Canada
+* States of the United States
+* States of Mexico
+* Brittany
+* Catalonia
+
+More flags will be added with time, be sure to support eventual Unicode
+proposals about them! Until then, you can download the font [here](fonts/NotoColorEmoji.ttf).
+
+Why I do this? I believe every region, province and state should have their
+emoji, even though that would make a lot of flags in the emoji picker! Unicode
+already have something in place to represent all of them, so they should all
+be there.
+
 ## Building NotoColorEmoji
 
 Building NotoColorEmoji currently requires a Python 2.x wide build.  To build
@@ -57,6 +74,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md) if you are thinking of contributing 
 
 ## News
 
+* 2020-01-20: Added fork.
 * 2017-09-13: Emoji redesign released.
 * 2015-12-09: Unicode 7 and 8 emoji image data (.png format) added.
 * 2015-09-29: All Noto fonts now licensed under the SIL Open Font License.
